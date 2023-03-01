@@ -9,7 +9,6 @@ class App extends React.Component {
       <p>
         <Header />
         <SolarSystem />
-        <Title headline="Xablau" />
       </p>
     );
   }
